@@ -79,7 +79,7 @@ img {
 }
 
 .mu-readmore-btn {
-  background-color: #fff;
+  background-color: black;
   font-family: "Open Sans", sans-serif;
   display: inline-block;
   font-size: 16px;
@@ -108,7 +108,7 @@ img {
 
 .mu-readmore-btn:hover, 
 .mu-readmore-btn:focus {
-  color: #fff;
+  color: black;
 }
 
 .mu-readmore-btn:hover::after, 
